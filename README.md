@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ditya (Taby) Hidayat.</h1>
-<h3 align="center">I am a software engineer dedicated on bringing value to communities around me. Aside from software engineering, I have a burning passion for Design Graphic and Video Editing. Check out my projects down below, and kindly leave a star (or "like") if you found anything I've made useful. Feel free to connect with me through my socials listed up above. Looking forward to connecting with you! ❤️</h3>
+<h3 align="center">I am a software engineer dedicated on bringing value to communities around me. Aside from software engineering, I have a burning passion for Design Graphic and Video Editing. Feel free to connect with me through my socials listed up above. Looking forward to connecting with you! ❤️</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **React Native, iOS, Flutter.**
